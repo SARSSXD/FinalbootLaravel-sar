@@ -59,7 +59,7 @@
         </div>
     </main>
 
-    {{-- <script src="{{ asset('assets/js/datatables.min.js') }}"></script> --}}
+    <script src="{{ asset('assets/js/datatables.min.js') }}"></script>
     <script src="{{ asset('assets/js/sweetalert2@11.js') }}"></script>
 
     <script>
